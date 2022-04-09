@@ -8,6 +8,7 @@ public class AvlTreeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AvlTreeApplication.class, args);
+		System.out.println("Application has started");
 	}
 	
 }
